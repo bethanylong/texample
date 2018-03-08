@@ -1,2 +1,2 @@
 all:
-	pdflatex scrub.tex
+	xelatex scrub.tex
